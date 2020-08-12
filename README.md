@@ -1,16 +1,19 @@
-### Hi there 👋
+# Albert Sema--@albertsema
+---
+Hi, I'm Albert-Senior Software Engineer @cisco working on [licensing solutions] https://www.cisco.com/c/en/us/products/software/smart-accounts/software-licensing.html. Previously worked in international development and consulting creating ICT4D solutions in developping countries. I'm not a nerd/geek nor your typical ~~10x developer~~. Just an all around good person with ambition to push the bard further.
 
-<!--
-**albertsema/albertsema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Values
+---
+:sparkling_heart: Trust and Safety
+:star2: Expression of authentic self
+:blossom: Quality work
+:heart_eyes: Empathy
 
-Here are some ideas to get you started:
+## How I work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus and Clarity. Great believer in deep work. Like to do uninterrupted work in the morning hours and collaborate in the afternoons. 
+
+## Get in touch
+
+* Twitter: https://twitter.com/albertsema
+* Personal space: https://albertsema.com
