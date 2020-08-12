@@ -1,6 +1,6 @@
 # Albert Sema--@albertsema
 ---
-Hi, I'm Albert-Senior Software Engineer @cisco working on [licensing solutions] https://www.cisco.com/c/en/us/products/software/smart-accounts/software-licensing.html. Previously worked in international development and consulting creating ICT4D solutions in developping countries. I'm not a nerd/geek nor your typical ~~10x developer~~. Just an all around good person with ambition to push the bard further.
+Hi, I'm Albert---Senior Software Engineer @cisco working on [licensing solutions] https://www.cisco.com/c/en/us/products/software/smart-accounts/software-licensing.html. Previously worked in international development and consulting creating ICT4D solutions in developping countries. I'm not a nerd/geek nor your typical ~~10x developer~~. Just an all around good person with ambition to push the bard further.
 
 ## Values
 ---
