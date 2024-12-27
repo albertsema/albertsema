@@ -9,5 +9,5 @@ Tech Lead @ [Cisco](https://www.cisco.com/).
 * 💬 Ping me about **systems design**, **development**, **tech documentation**, and **mentorship**.
 
 Things I'm active learning:
-* Python
+* Rust
 * AI/ML
