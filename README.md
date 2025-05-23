@@ -2,7 +2,7 @@
 
 **A Backend Engineer and Technical Writer.**
 
-Tech Lead @ [Cisco](https://www.cisco.com/).
+Tech Lead
 
 * :hammer: I design and build backend systems.
 * 🪥 I use daily: `Ruby`, `Go`, and `Java`.
